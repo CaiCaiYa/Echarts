@@ -1,0 +1,5352 @@
+{
+	"animation": true,
+	"animationThreshold": 2000,
+	"animationDuration": 1000,
+	"animationEasing": "cubicOut",
+	"animationDelay": 0,
+	"animationDurationUpdate": 300,
+	"animationEasingUpdate": "cubicOut",
+	"animationDelayUpdate": 0,
+	"color": [
+		"#c12e34",
+		"#e6b600",
+		"#0098d9",
+		"#2b821d",
+		"#005eaa",
+		"#339ca8",
+		"#cda819",
+		"#32a487",
+		"#d87c7c",
+		"#919e8b",
+		"#d7ab82",
+		"#6e7074",
+		"#61a0a8",
+		"#efa18d",
+		"#787464",
+		"#cc7e63",
+		"#724e58",
+		"#4b565b"
+
+	],
+	"series": [{
+		"type": "graph",
+		"layout": "circular",
+		"symbolSize": 10,
+		"circular": {
+			"rotateLabel": true
+		},
+		"force": {
+			"repulsion": 50,
+			"edgeLength": 50,
+			"gravity": 0.2
+		},
+		"label": {
+			"show": true,
+			"position": "right",
+			"margin": 8,
+			"fontSize": 30
+		},
+		"lineStyle": {
+			"show": true,
+			"opacity": 1,
+			"curveness": 0.3,
+			"type": "solid",
+			"color": "source"
+		},
+		"roam": true,
+		"draggable": false,
+		"focusNodeAdjacency": true,
+		"data": [{
+				"id": "0",
+				"name": "Left左脑FRO额叶SFG额上回",
+				"symbolSize": 63.8,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 638,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 0
+			},
+			{
+				"id": "1",
+				"name": "Left左脑FRO额叶MFG额中回",
+				"symbolSize": 41.3,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 413,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 0
+			},
+			{
+				"id": "2",
+				"name": "Left左脑FRO额叶IFG额下回",
+				"symbolSize": 40.2,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 402,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 0
+			},
+			{
+				"id": "3",
+				"name": "Left左脑FRO额叶OrG眶回",
+				"symbolSize": 50.6,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 506,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 0
+			},
+			{
+				"id": "4",
+				"name": "Left左脑FRO额叶PrG中央前回",
+				"symbolSize": 36.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 361,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 0
+			},
+			{
+				"id": "5",
+				"name": "Left左脑FRO额叶PCL中央旁小叶",
+				"symbolSize": 18.8,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 188,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 0
+			},
+			{
+				"id": "6",
+				"name": "Left左脑TEM颞叶STG颞上回",
+				"symbolSize": 49.2,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 492,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 1
+			},
+			{
+				"id": "7",
+				"name": "Left左脑TEM颞叶MTG颞中回",
+				"symbolSize": 23.9,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 239,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 1
+			},
+			{
+				"id": "8",
+				"name": "Left左脑TEM颞叶ITG颞下回",
+				"symbolSize": 44.5,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 445,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 1
+			},
+			{
+				"id": "9",
+				"name": "Left左脑TEM颞叶FuG颞梭状回",
+				"symbolSize": 29.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 291,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 1
+			},
+			{
+				"id": "10",
+				"name": "Left左脑TEM颞叶PhG海马旁回",
+				"symbolSize": 50.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 501,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 1
+			},
+			{
+				"id": "11",
+				"name": "Left左脑TEM颞叶Psts后颞上沟",
+				"symbolSize": 5.9,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 59,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 1
+			},
+			{
+				"id": "12",
+				"name": "Left左脑PAR顶叶SPL顶上小叶",
+				"symbolSize": 32.5,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 325,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 2
+			},
+			{
+				"id": "13",
+				"name": "Left左脑PAR顶叶IPL顶下小叶",
+				"symbolSize": 34.7,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 347,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 2
+			},
+			{
+				"id": "14",
+				"name": "Left左脑PAR顶叶Pcun楔前小叶",
+				"symbolSize": 59.0,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 590,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 2
+			},
+			{
+				"id": "15",
+				"name": "Left左脑PAR顶叶PoG中央后回",
+				"symbolSize": 24.2,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 242,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 2
+			},
+			{
+				"id": "16",
+				"name": "Left左脑INS岛叶Insu岛回",
+				"symbolSize": 46.6,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 466,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 3
+			},
+			{
+				"id": "17",
+				"name": "Left左脑LIM边缘CG扣带回",
+				"symbolSize": 84.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 841,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 4
+			},
+			{
+				"id": "18",
+				"name": "Left左脑OCC枕叶Cun楔叶",
+				"symbolSize": 52.9,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 529,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 5
+			},
+			{
+				"id": "19",
+				"name": "Left左脑OCC枕叶OcG枕回",
+				"symbolSize": 41.8,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 418,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 5
+			},
+			{
+				"id": "20",
+				"name": "Left左脑SUB基底Amyg杏仁核",
+				"symbolSize": 25.2,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 252,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 6
+			},
+			{
+				"id": "21",
+				"name": "Left左脑SUB基底Hipp海马",
+				"symbolSize": 32.2,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 322,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 6
+			},
+			{
+				"id": "22",
+				"name": "Left左脑SUB基底Str纹状体",
+				"symbolSize": 100.8,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 1008,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 6
+			},
+			{
+				"id": "23",
+				"name": "Left左脑SUB基底Tha丘脑",
+				"symbolSize": 130.2,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 1302,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 6
+			},
+			{
+				"id": "24",
+				"name": "Right右脑FRO额叶SFG额上回",
+				"symbolSize": 60.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 601,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 7
+			},
+			{
+				"id": "25",
+				"name": "Right右脑FRO额叶MFG额中回",
+				"symbolSize": 41.7,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 417,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 7
+			},
+			{
+				"id": "26",
+				"name": "Right右脑FRO额叶IFG额下回",
+				"symbolSize": 35.9,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 359,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 7
+			},
+			{
+				"id": "27",
+				"name": "Right右脑FRO额叶OrG眶回",
+				"symbolSize": 50.0,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 500,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 7
+			},
+			{
+				"id": "28",
+				"name": "Right右脑FRO额叶PrG中央前回",
+				"symbolSize": 34.9,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 349,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 7
+			},
+			{
+				"id": "29",
+				"name": "Right右脑FRO额叶PCL中央旁小叶",
+				"symbolSize": 17.8,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 178,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 7
+			},
+			{
+				"id": "30",
+				"name": "Right右脑TEM颞叶STG颞上回",
+				"symbolSize": 45.5,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 455,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 8
+			},
+			{
+				"id": "31",
+				"name": "Right右脑TEM颞叶MTG颞中回",
+				"symbolSize": 25.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 251,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 8
+			},
+			{
+				"id": "32",
+				"name": "Right右脑TEM颞叶ITG颞下回",
+				"symbolSize": 40.5,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 405,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 8
+			},
+			{
+				"id": "33",
+				"name": "Right右脑TEM颞叶FuG颞梭状回",
+				"symbolSize": 25.9,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 259,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 8
+			},
+			{
+				"id": "34",
+				"name": "Right右脑TEM颞叶PhG海马旁回",
+				"symbolSize": 46.5,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 465,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 8
+			},
+			{
+				"id": "35",
+				"name": "Right右脑TEM颞叶Psts后颞上沟",
+				"symbolSize": 6.7,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 67,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 8
+			},
+			{
+				"id": "36",
+				"name": "Right右脑PAR顶叶SPL顶上小叶",
+				"symbolSize": 35.8,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 358,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 9
+			},
+			{
+				"id": "37",
+				"name": "Right右脑PAR顶叶IPL顶下小叶",
+				"symbolSize": 34.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 341,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 9
+			},
+			{
+				"id": "38",
+				"name": "Right右脑PAR顶叶Pcun楔前小叶",
+				"symbolSize": 54.8,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 548,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 9
+			},
+			{
+				"id": "39",
+				"name": "Right右脑PAR顶叶PoG中央后回",
+				"symbolSize": 25.8,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 258,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 9
+			},
+			{
+				"id": "40",
+				"name": "Right右脑INS岛叶Insu岛回",
+				"symbolSize": 43.6,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 436,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 10
+			},
+			{
+				"id": "41",
+				"name": "Right右脑LIM边缘CG扣带回",
+				"symbolSize": 84.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 841,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 11
+			},
+			{
+				"id": "42",
+				"name": "Right右脑OCC枕叶Cun楔叶",
+				"symbolSize": 54.4,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 544,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 12
+			},
+			{
+				"id": "43",
+				"name": "Right右脑OCC枕叶OcG枕回",
+				"symbolSize": 41.2,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 412,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 12
+			},
+			{
+				"id": "44",
+				"name": "Right右脑SUB基底Amyg杏仁核",
+				"symbolSize": 23.4,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 234,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 13
+			},
+			{
+				"id": "45",
+				"name": "Right右脑SUB基底Hipp海马",
+				"symbolSize": 31.0,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 310,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 13
+			},
+			{
+				"id": "46",
+				"name": "Right右脑SUB基底Str纹状体",
+				"symbolSize": 100.5,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 1005,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 13
+			},
+			{
+				"id": "47",
+				"name": "Right右脑SUB基底Tha丘脑",
+				"symbolSize": 135.0,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 1350,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 13
+			}
+		],
+		"categories": [{
+				"name": "Left左脑FRO额叶"
+			},
+			{
+				"name": "Left左脑TEM颞叶"
+			},
+			{
+				"name": "Left左脑PAR顶叶"
+			},
+			{
+				"name": "Left左脑INS岛叶"
+			},
+			{
+				"name": "Left左脑LIM边缘"
+			},
+			{
+				"name": "Left左脑OCC枕叶"
+			},
+			{
+				"name": "Left左脑SUB基底"
+			},
+			{
+				"name": "Right右脑FRO额叶"
+			},
+			{
+				"name": "Right右脑TEM颞叶"
+			},
+			{
+				"name": "Right右脑PAR顶叶"
+			},
+			{
+				"name": "Right右脑INS岛叶"
+			},
+			{
+				"name": "Right右脑LIM边缘"
+			},
+			{
+				"name": "Right右脑OCC枕叶"
+			},
+			{
+				"name": "Right右脑SUB基底"
+			}
+		],
+		"edgeLabel": {
+			"show": false,
+			"position": "top",
+			"margin": 8
+		},
+		"edgeSymbol": [
+			null,
+			null
+		],
+		"edgeSymbolSize": 10,
+		"links": [{
+				"id": "1",
+				"source": "4",
+				"target": "3",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "2",
+				"source": "5",
+				"target": "0",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "3",
+				"source": "5",
+				"target": "1",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "4",
+				"source": "5",
+				"target": "3",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "5",
+				"source": "5",
+				"target": "4",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "6",
+				"source": "6",
+				"target": "0",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "7",
+				"source": "6",
+				"target": "1",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "8",
+				"source": "6",
+				"target": "5",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "9",
+				"source": "7",
+				"target": "1",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "10",
+				"source": "7",
+				"target": "3",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "11",
+				"source": "7",
+				"target": "4",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "12",
+				"source": "8",
+				"target": "1",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "13",
+				"source": "8",
+				"target": "2",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "14",
+				"source": "8",
+				"target": "3",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "15",
+				"source": "8",
+				"target": "4",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "16",
+				"source": "9",
+				"target": "0",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "17",
+				"source": "9",
+				"target": "1",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "18",
+				"source": "9",
+				"target": "2",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "19",
+				"source": "9",
+				"target": "3",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "20",
+				"source": "9",
+				"target": "4",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "21",
+				"source": "9",
+				"target": "6",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "22",
+				"source": "9",
+				"target": "7",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "23",
+				"source": "10",
+				"target": "0",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "24",
+				"source": "10",
+				"target": "1",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "25",
+				"source": "10",
+				"target": "2",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "26",
+				"source": "10",
+				"target": "4",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "27",
+				"source": "10",
+				"target": "7",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "28",
+				"source": "11",
+				"target": "1",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "29",
+				"source": "11",
+				"target": "2",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "30",
+				"source": "11",
+				"target": "3",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "31",
+				"source": "11",
+				"target": "6",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "32",
+				"source": "11",
+				"target": "7",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "33",
+				"source": "11",
+				"target": "8",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "34",
+				"source": "12",
+				"target": "0",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "35",
+				"source": "12",
+				"target": "1",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "36",
+				"source": "12",
+				"target": "2",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "37",
+				"source": "12",
+				"target": "3",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "38",
+				"source": "12",
+				"target": "4",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "39",
+				"source": "12",
+				"target": "5",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "40",
+				"source": "12",
+				"target": "7",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "41",
+				"source": "12",
+				"target": "8",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "42",
+				"source": "12",
+				"target": "9",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "43",
+				"source": "12",
+				"target": "10",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "44",
+				"source": "13",
+				"target": "0",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "45",
+				"source": "13",
+				"target": "1",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "46",
+				"source": "13",
+				"target": "3",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "47",
+				"source": "13",
+				"target": "4",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "48",
+				"source": "13",
+				"target": "5",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "49",
+				"source": "13",
+				"target": "9",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "50",
+				"source": "13",
+				"target": "10",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "51",
+				"source": "13",
+				"target": "11",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "52",
+				"source": "14",
+				"target": "1",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "53",
+				"source": "14",
+				"target": "2",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "54",
+				"source": "14",
+				"target": "4",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "55",
+				"source": "14",
+				"target": "5",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "56",
+				"source": "14",
+				"target": "9",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "57",
+				"source": "14",
+				"target": "11",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "58",
+				"source": "14",
+				"target": "13",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "59",
+				"source": "15",
+				"target": "0",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "60",
+				"source": "15",
+				"target": "1",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "61",
+				"source": "15",
+				"target": "3",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "62",
+				"source": "15",
+				"target": "5",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "63",
+				"source": "15",
+				"target": "7",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "64",
+				"source": "15",
+				"target": "8",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "65",
+				"source": "15",
+				"target": "9",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "66",
+				"source": "15",
+				"target": "10",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "67",
+				"source": "15",
+				"target": "11",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "68",
+				"source": "15",
+				"target": "14",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "69",
+				"source": "16",
+				"target": "5",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "70",
+				"source": "16",
+				"target": "8",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "71",
+				"source": "16",
+				"target": "9",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "72",
+				"source": "16",
+				"target": "11",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "73",
+				"source": "17",
+				"target": "1",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "74",
+				"source": "17",
+				"target": "2",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "75",
+				"source": "17",
+				"target": "4",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "76",
+				"source": "17",
+				"target": "7",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "77",
+				"source": "17",
+				"target": "12",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "78",
+				"source": "17",
+				"target": "13",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "79",
+				"source": "17",
+				"target": "15",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "80",
+				"source": "18",
+				"target": "0",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "81",
+				"source": "18",
+				"target": "1",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "82",
+				"source": "18",
+				"target": "2",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "83",
+				"source": "18",
+				"target": "7",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "84",
+				"source": "18",
+				"target": "12",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "85",
+				"source": "18",
+				"target": "13",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "86",
+				"source": "18",
+				"target": "16",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "87",
+				"source": "19",
+				"target": "0",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "88",
+				"source": "19",
+				"target": "1",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "89",
+				"source": "19",
+				"target": "2",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "90",
+				"source": "19",
+				"target": "3",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "91",
+				"source": "19",
+				"target": "11",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "92",
+				"source": "19",
+				"target": "12",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "93",
+				"source": "19",
+				"target": "16",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "94",
+				"source": "19",
+				"target": "17",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "95",
+				"source": "20",
+				"target": "0",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "96",
+				"source": "20",
+				"target": "1",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "97",
+				"source": "20",
+				"target": "2",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "98",
+				"source": "20",
+				"target": "4",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "99",
+				"source": "20",
+				"target": "5",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "100",
+				"source": "20",
+				"target": "6",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "101",
+				"source": "20",
+				"target": "7",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "102",
+				"source": "20",
+				"target": "8",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "103",
+				"source": "20",
+				"target": "9",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "104",
+				"source": "20",
+				"target": "12",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "105",
+				"source": "20",
+				"target": "13",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "106",
+				"source": "20",
+				"target": "14",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "107",
+				"source": "20",
+				"target": "15",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "108",
+				"source": "20",
+				"target": "18",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "109",
+				"source": "20",
+				"target": "19",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "110",
+				"source": "21",
+				"target": "1",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "111",
+				"source": "21",
+				"target": "4",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "112",
+				"source": "21",
+				"target": "5",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "113",
+				"source": "21",
+				"target": "6",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "114",
+				"source": "21",
+				"target": "7",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "115",
+				"source": "21",
+				"target": "9",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "116",
+				"source": "21",
+				"target": "12",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "117",
+				"source": "21",
+				"target": "13",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "118",
+				"source": "21",
+				"target": "14",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "119",
+				"source": "21",
+				"target": "15",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "120",
+				"source": "21",
+				"target": "18",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "121",
+				"source": "21",
+				"target": "20",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "122",
+				"source": "22",
+				"target": "11",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "123",
+				"source": "24",
+				"target": "5",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "124",
+				"source": "24",
+				"target": "6",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "125",
+				"source": "24",
+				"target": "9",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "126",
+				"source": "24",
+				"target": "10",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "127",
+				"source": "24",
+				"target": "15",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "128",
+				"source": "24",
+				"target": "16",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "129",
+				"source": "24",
+				"target": "18",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "130",
+				"source": "24",
+				"target": "20",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "131",
+				"source": "24",
+				"target": "21",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "132",
+				"source": "25",
+				"target": "2",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "133",
+				"source": "25",
+				"target": "3",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "134",
+				"source": "25",
+				"target": "4",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "135",
+				"source": "25",
+				"target": "5",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "136",
+				"source": "25",
+				"target": "14",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "137",
+				"source": "25",
+				"target": "17",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "138",
+				"source": "25",
+				"target": "23",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "139",
+				"source": "26",
+				"target": "1",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "140",
+				"source": "26",
+				"target": "5",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "141",
+				"source": "26",
+				"target": "14",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "142",
+				"source": "26",
+				"target": "17",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "143",
+				"source": "26",
+				"target": "23",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "144",
+				"source": "27",
+				"target": "1",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "145",
+				"source": "27",
+				"target": "5",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "146",
+				"source": "27",
+				"target": "6",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "147",
+				"source": "27",
+				"target": "9",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "148",
+				"source": "27",
+				"target": "10",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "149",
+				"source": "27",
+				"target": "14",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "150",
+				"source": "27",
+				"target": "16",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "151",
+				"source": "27",
+				"target": "18",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "152",
+				"source": "27",
+				"target": "20",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "153",
+				"source": "27",
+				"target": "21",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "154",
+				"source": "27",
+				"target": "25",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "155",
+				"source": "28",
+				"target": "1",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "156",
+				"source": "28",
+				"target": "5",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "157",
+				"source": "28",
+				"target": "14",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "158",
+				"source": "28",
+				"target": "15",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "159",
+				"source": "28",
+				"target": "17",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "160",
+				"source": "28",
+				"target": "22",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "161",
+				"source": "28",
+				"target": "23",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "162",
+				"source": "28",
+				"target": "27",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "163",
+				"source": "29",
+				"target": "0",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "164",
+				"source": "29",
+				"target": "3",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "165",
+				"source": "29",
+				"target": "4",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "166",
+				"source": "29",
+				"target": "5",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "167",
+				"source": "29",
+				"target": "6",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "168",
+				"source": "29",
+				"target": "12",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "169",
+				"source": "29",
+				"target": "13",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "170",
+				"source": "29",
+				"target": "14",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "171",
+				"source": "29",
+				"target": "15",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "172",
+				"source": "29",
+				"target": "16",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "173",
+				"source": "29",
+				"target": "20",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "174",
+				"source": "29",
+				"target": "21",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "175",
+				"source": "29",
+				"target": "24",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "176",
+				"source": "29",
+				"target": "25",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "177",
+				"source": "29",
+				"target": "27",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "178",
+				"source": "29",
+				"target": "28",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "179",
+				"source": "30",
+				"target": "0",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "180",
+				"source": "30",
+				"target": "3",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "181",
+				"source": "30",
+				"target": "5",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "182",
+				"source": "30",
+				"target": "12",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "183",
+				"source": "30",
+				"target": "14",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "184",
+				"source": "30",
+				"target": "15",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "185",
+				"source": "30",
+				"target": "18",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "186",
+				"source": "30",
+				"target": "20",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "187",
+				"source": "30",
+				"target": "21",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "188",
+				"source": "30",
+				"target": "22",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "189",
+				"source": "30",
+				"target": "23",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "190",
+				"source": "30",
+				"target": "24",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "191",
+				"source": "30",
+				"target": "25",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "192",
+				"source": "30",
+				"target": "28",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "193",
+				"source": "30",
+				"target": "29",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "194",
+				"source": "31",
+				"target": "12",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "195",
+				"source": "31",
+				"target": "14",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "196",
+				"source": "31",
+				"target": "17",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "197",
+				"source": "31",
+				"target": "21",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "198",
+				"source": "31",
+				"target": "22",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "199",
+				"source": "31",
+				"target": "23",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "200",
+				"source": "31",
+				"target": "25",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "201",
+				"source": "31",
+				"target": "26",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "202",
+				"source": "31",
+				"target": "27",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "203",
+				"source": "31",
+				"target": "28",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "204",
+				"source": "32",
+				"target": "12",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "205",
+				"source": "32",
+				"target": "17",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "206",
+				"source": "32",
+				"target": "18",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "207",
+				"source": "32",
+				"target": "21",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "208",
+				"source": "32",
+				"target": "22",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "209",
+				"source": "32",
+				"target": "23",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "210",
+				"source": "32",
+				"target": "25",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "211",
+				"source": "32",
+				"target": "27",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "212",
+				"source": "32",
+				"target": "28",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "213",
+				"source": "33",
+				"target": "0",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "214",
+				"source": "33",
+				"target": "5",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "215",
+				"source": "33",
+				"target": "9",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "216",
+				"source": "33",
+				"target": "10",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "217",
+				"source": "33",
+				"target": "12",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "218",
+				"source": "33",
+				"target": "14",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "219",
+				"source": "33",
+				"target": "17",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "220",
+				"source": "33",
+				"target": "19",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "221",
+				"source": "33",
+				"target": "20",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "222",
+				"source": "33",
+				"target": "21",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "223",
+				"source": "33",
+				"target": "22",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "224",
+				"source": "33",
+				"target": "23",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "225",
+				"source": "33",
+				"target": "24",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "226",
+				"source": "33",
+				"target": "25",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "227",
+				"source": "33",
+				"target": "26",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "228",
+				"source": "33",
+				"target": "27",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "229",
+				"source": "33",
+				"target": "28",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "230",
+				"source": "33",
+				"target": "30",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "231",
+				"source": "33",
+				"target": "31",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "232",
+				"source": "34",
+				"target": "0",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "233",
+				"source": "34",
+				"target": "3",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "234",
+				"source": "34",
+				"target": "9",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "235",
+				"source": "34",
+				"target": "10",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "236",
+				"source": "34",
+				"target": "19",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "237",
+				"source": "34",
+				"target": "20",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "238",
+				"source": "34",
+				"target": "21",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "239",
+				"source": "34",
+				"target": "22",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "240",
+				"source": "34",
+				"target": "24",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "241",
+				"source": "34",
+				"target": "25",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "242",
+				"source": "34",
+				"target": "30",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "243",
+				"source": "34",
+				"target": "31",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "244",
+				"source": "35",
+				"target": "14",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "245",
+				"source": "35",
+				"target": "26",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "246",
+				"source": "35",
+				"target": "27",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "247",
+				"source": "35",
+				"target": "30",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "248",
+				"source": "35",
+				"target": "31",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "249",
+				"source": "35",
+				"target": "32",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "250",
+				"source": "36",
+				"target": "4",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "251",
+				"source": "36",
+				"target": "5",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "252",
+				"source": "36",
+				"target": "6",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "253",
+				"source": "36",
+				"target": "7",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "254",
+				"source": "36",
+				"target": "8",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "255",
+				"source": "36",
+				"target": "9",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "256",
+				"source": "36",
+				"target": "12",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "257",
+				"source": "36",
+				"target": "13",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "258",
+				"source": "36",
+				"target": "15",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "259",
+				"source": "36",
+				"target": "16",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "260",
+				"source": "36",
+				"target": "17",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "261",
+				"source": "36",
+				"target": "18",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "262",
+				"source": "36",
+				"target": "19",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "263",
+				"source": "36",
+				"target": "20",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "264",
+				"source": "36",
+				"target": "21",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "265",
+				"source": "36",
+				"target": "24",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "266",
+				"source": "36",
+				"target": "25",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "267",
+				"source": "36",
+				"target": "26",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "268",
+				"source": "36",
+				"target": "27",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "269",
+				"source": "36",
+				"target": "29",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "270",
+				"source": "36",
+				"target": "32",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "271",
+				"source": "36",
+				"target": "33",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "272",
+				"source": "36",
+				"target": "34",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "273",
+				"source": "37",
+				"target": "5",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "274",
+				"source": "37",
+				"target": "12",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "275",
+				"source": "37",
+				"target": "14",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "276",
+				"source": "37",
+				"target": "15",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "277",
+				"source": "37",
+				"target": "17",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "278",
+				"source": "37",
+				"target": "21",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "279",
+				"source": "37",
+				"target": "22",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "280",
+				"source": "37",
+				"target": "23",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "281",
+				"source": "37",
+				"target": "24",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "282",
+				"source": "37",
+				"target": "27",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "283",
+				"source": "37",
+				"target": "29",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "284",
+				"source": "37",
+				"target": "33",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "285",
+				"source": "37",
+				"target": "34",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "286",
+				"source": "37",
+				"target": "35",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "287",
+				"source": "38",
+				"target": "1",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "288",
+				"source": "38",
+				"target": "3",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "289",
+				"source": "38",
+				"target": "4",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "290",
+				"source": "38",
+				"target": "5",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "291",
+				"source": "38",
+				"target": "6",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "292",
+				"source": "38",
+				"target": "7",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "293",
+				"source": "38",
+				"target": "9",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "294",
+				"source": "38",
+				"target": "11",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "295",
+				"source": "38",
+				"target": "13",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "296",
+				"source": "38",
+				"target": "15",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "297",
+				"source": "38",
+				"target": "16",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "298",
+				"source": "38",
+				"target": "19",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "299",
+				"source": "38",
+				"target": "20",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "300",
+				"source": "38",
+				"target": "21",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "301",
+				"source": "38",
+				"target": "25",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "302",
+				"source": "38",
+				"target": "26",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "303",
+				"source": "38",
+				"target": "28",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "304",
+				"source": "38",
+				"target": "29",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "305",
+				"source": "38",
+				"target": "31",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "306",
+				"source": "38",
+				"target": "33",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "307",
+				"source": "38",
+				"target": "35",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "308",
+				"source": "38",
+				"target": "37",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "309",
+				"source": "39",
+				"target": "0",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "310",
+				"source": "39",
+				"target": "4",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "311",
+				"source": "39",
+				"target": "5",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "312",
+				"source": "39",
+				"target": "6",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "313",
+				"source": "39",
+				"target": "12",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "314",
+				"source": "39",
+				"target": "13",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "315",
+				"source": "39",
+				"target": "14",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "316",
+				"source": "39",
+				"target": "15",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "317",
+				"source": "39",
+				"target": "17",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "318",
+				"source": "39",
+				"target": "22",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "319",
+				"source": "39",
+				"target": "23",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "320",
+				"source": "39",
+				"target": "24",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "321",
+				"source": "39",
+				"target": "27",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "322",
+				"source": "39",
+				"target": "29",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "323",
+				"source": "39",
+				"target": "31",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "324",
+				"source": "39",
+				"target": "32",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "325",
+				"source": "39",
+				"target": "33",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "326",
+				"source": "39",
+				"target": "34",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "327",
+				"source": "39",
+				"target": "35",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "328",
+				"source": "39",
+				"target": "38",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "329",
+				"source": "40",
+				"target": "3",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "330",
+				"source": "40",
+				"target": "5",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "331",
+				"source": "40",
+				"target": "12",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "332",
+				"source": "40",
+				"target": "14",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "333",
+				"source": "40",
+				"target": "15",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "334",
+				"source": "40",
+				"target": "17",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "335",
+				"source": "40",
+				"target": "21",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "336",
+				"source": "40",
+				"target": "22",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "337",
+				"source": "40",
+				"target": "23",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "338",
+				"source": "40",
+				"target": "24",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "339",
+				"source": "40",
+				"target": "25",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "340",
+				"source": "40",
+				"target": "29",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "341",
+				"source": "40",
+				"target": "32",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "342",
+				"source": "40",
+				"target": "33",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "343",
+				"source": "41",
+				"target": "1",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "344",
+				"source": "41",
+				"target": "2",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "345",
+				"source": "41",
+				"target": "4",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "346",
+				"source": "41",
+				"target": "7",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "347",
+				"source": "41",
+				"target": "8",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "348",
+				"source": "41",
+				"target": "9",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "349",
+				"source": "41",
+				"target": "11",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "350",
+				"source": "41",
+				"target": "12",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "351",
+				"source": "41",
+				"target": "13",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "352",
+				"source": "41",
+				"target": "15",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "353",
+				"source": "41",
+				"target": "16",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "354",
+				"source": "41",
+				"target": "19",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "355",
+				"source": "41",
+				"target": "26",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "356",
+				"source": "41",
+				"target": "28",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "357",
+				"source": "41",
+				"target": "31",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "358",
+				"source": "41",
+				"target": "33",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "359",
+				"source": "41",
+				"target": "35",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "360",
+				"source": "41",
+				"target": "37",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "361",
+				"source": "41",
+				"target": "39",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "362",
+				"source": "42",
+				"target": "0",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "363",
+				"source": "42",
+				"target": "3",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "364",
+				"source": "42",
+				"target": "5",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "365",
+				"source": "42",
+				"target": "6",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "366",
+				"source": "42",
+				"target": "8",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "367",
+				"source": "42",
+				"target": "12",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "368",
+				"source": "42",
+				"target": "13",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "369",
+				"source": "42",
+				"target": "20",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "370",
+				"source": "42",
+				"target": "21",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "371",
+				"source": "42",
+				"target": "24",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "372",
+				"source": "42",
+				"target": "25",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "373",
+				"source": "42",
+				"target": "26",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "374",
+				"source": "42",
+				"target": "29",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "375",
+				"source": "42",
+				"target": "30",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "376",
+				"source": "42",
+				"target": "31",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "377",
+				"source": "42",
+				"target": "36",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "378",
+				"source": "42",
+				"target": "37",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "379",
+				"source": "42",
+				"target": "40",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "380",
+				"source": "43",
+				"target": "9",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "381",
+				"source": "43",
+				"target": "10",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "382",
+				"source": "43",
+				"target": "12",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "383",
+				"source": "43",
+				"target": "14",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "384",
+				"source": "43",
+				"target": "17",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "385",
+				"source": "43",
+				"target": "20",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "386",
+				"source": "43",
+				"target": "21",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "387",
+				"source": "43",
+				"target": "22",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "388",
+				"source": "43",
+				"target": "23",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "389",
+				"source": "43",
+				"target": "24",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "390",
+				"source": "43",
+				"target": "25",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "391",
+				"source": "43",
+				"target": "26",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "392",
+				"source": "43",
+				"target": "35",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "393",
+				"source": "43",
+				"target": "36",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "394",
+				"source": "43",
+				"target": "38",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "395",
+				"source": "43",
+				"target": "41",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "396",
+				"source": "44",
+				"target": "0",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "397",
+				"source": "44",
+				"target": "3",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "398",
+				"source": "44",
+				"target": "5",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "399",
+				"source": "44",
+				"target": "6",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "400",
+				"source": "44",
+				"target": "9",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "401",
+				"source": "44",
+				"target": "10",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "402",
+				"source": "44",
+				"target": "12",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "403",
+				"source": "44",
+				"target": "14",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "404",
+				"source": "44",
+				"target": "18",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "405",
+				"source": "44",
+				"target": "19",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "406",
+				"source": "44",
+				"target": "20",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "407",
+				"source": "44",
+				"target": "21",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "408",
+				"source": "44",
+				"target": "24",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "409",
+				"source": "44",
+				"target": "25",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "410",
+				"source": "44",
+				"target": "26",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "411",
+				"source": "44",
+				"target": "28",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "412",
+				"source": "44",
+				"target": "29",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "413",
+				"source": "44",
+				"target": "30",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "414",
+				"source": "44",
+				"target": "31",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "415",
+				"source": "44",
+				"target": "32",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "416",
+				"source": "44",
+				"target": "33",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "417",
+				"source": "44",
+				"target": "36",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "418",
+				"source": "44",
+				"target": "37",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "419",
+				"source": "44",
+				"target": "38",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "420",
+				"source": "44",
+				"target": "39",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "421",
+				"source": "44",
+				"target": "40",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "422",
+				"source": "44",
+				"target": "42",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "423",
+				"source": "44",
+				"target": "43",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "424",
+				"source": "45",
+				"target": "0",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "425",
+				"source": "45",
+				"target": "3",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "426",
+				"source": "45",
+				"target": "5",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "427",
+				"source": "45",
+				"target": "6",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "428",
+				"source": "45",
+				"target": "8",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "429",
+				"source": "45",
+				"target": "9",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "430",
+				"source": "45",
+				"target": "10",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "431",
+				"source": "45",
+				"target": "12",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "432",
+				"source": "45",
+				"target": "13",
+				"value": "2",
+				"lineStyle": {
+					"width": 1.3
+				}
+			},
+			{
+				"id": "433",
+				"source": "45",
+				"target": "14",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "434",
+				"source": "45",
+				"target": "16",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "435",
+				"source": "45",
+				"target": "18",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "436",
+				"source": "45",
+				"target": "19",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "437",
+				"source": "45",
+				"target": "20",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "438",
+				"source": "45",
+				"target": "21",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "439",
+				"source": "45",
+				"target": "25",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "440",
+				"source": "45",
+				"target": "26",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "441",
+				"source": "45",
+				"target": "29",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "442",
+				"source": "45",
+				"target": "30",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "443",
+				"source": "45",
+				"target": "31",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "444",
+				"source": "45",
+				"target": "33",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "445",
+				"source": "45",
+				"target": "36",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "446",
+				"source": "45",
+				"target": "37",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "447",
+				"source": "45",
+				"target": "38",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "448",
+				"source": "45",
+				"target": "39",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "449",
+				"source": "45",
+				"target": "40",
+				"value": "7",
+				"lineStyle": {
+					"width": 3.7
+				}
+			},
+			{
+				"id": "450",
+				"source": "45",
+				"target": "42",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "451",
+				"source": "45",
+				"target": "44",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "452",
+				"source": "46",
+				"target": "2",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "453",
+				"source": "46",
+				"target": "4",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "454",
+				"source": "46",
+				"target": "6",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "455",
+				"source": "46",
+				"target": "7",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "456",
+				"source": "46",
+				"target": "8",
+				"value": "3",
+				"lineStyle": {
+					"width": 2.1
+				}
+			},
+			{
+				"id": "457",
+				"source": "46",
+				"target": "9",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "458",
+				"source": "46",
+				"target": "10",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "459",
+				"source": "46",
+				"target": "13",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "460",
+				"source": "46",
+				"target": "15",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "461",
+				"source": "46",
+				"target": "16",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "462",
+				"source": "46",
+				"target": "19",
+				"value": "6",
+				"lineStyle": {
+					"width": 3.4
+				}
+			},
+			{
+				"id": "463",
+				"source": "46",
+				"target": "20",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "464",
+				"source": "46",
+				"target": "35",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "465",
+				"source": "47",
+				"target": "1",
+				"value": "10",
+				"lineStyle": {
+					"width": 4.3
+				}
+			},
+			{
+				"id": "466",
+				"source": "47",
+				"target": "2",
+				"value": "8",
+				"lineStyle": {
+					"width": 3.9
+				}
+			},
+			{
+				"id": "467",
+				"source": "47",
+				"target": "7",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			},
+			{
+				"id": "468",
+				"source": "47",
+				"target": "13",
+				"value": "4",
+				"lineStyle": {
+					"width": 2.6
+				}
+			},
+			{
+				"id": "469",
+				"source": "47",
+				"target": "15",
+				"value": "5",
+				"lineStyle": {
+					"width": 3.0
+				}
+			},
+			{
+				"id": "470",
+				"source": "47",
+				"target": "16",
+				"value": "9",
+				"lineStyle": {
+					"width": 4.1
+				}
+			},
+			{
+				"id": "471",
+				"source": "47",
+				"target": "35",
+				"value": "1",
+				"lineStyle": {
+					"width": 0.0
+				}
+			}
+		]
+	}],
+	"legend": [{
+			"orient": "horizontal",
+			"x": "left",
+			"y": "20%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Left左脑FRO额叶": true
+			},
+			"data": [{
+				"name": "Left左脑FRO额叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "horizontal",
+			"x": "left",
+			"y": "25%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Left左脑TEM颞叶": true
+			},
+			"data": [{
+				"name": "Left左脑TEM颞叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "horizontal",
+			"x": "left",
+			"y": "30%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Left左脑PAR顶叶": true
+			},
+			"data": [{
+				"name": "Left左脑PAR顶叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "horizontal",
+			"x": "left",
+			"y": "35%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Left左脑INS岛叶": true
+			},
+			"data": [{
+				"name": "Left左脑INS岛叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "horizontal",
+			"x": "left",
+			"y": "40%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Left左脑LIM边缘": true
+			},
+			"data": [{
+				"name": "Left左脑LIM边缘",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "horizontal",
+			"x": "left",
+			"y": "45%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Left左脑OCC枕叶": true
+			},
+			"data": [{
+				"name": "Left左脑OCC枕叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "horizontal",
+			"x": "left",
+			"y": "50%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Left左脑SUB基底": true
+			},
+			"data": [{
+				"name": "Left左脑SUB基底",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "vertical",
+			"x": "right",
+			"y": "20%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Right右脑FRO额叶": true
+			},
+			"data": [{
+				"name": "Right右脑FRO额叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "vertical",
+			"x": "right",
+			"y": "25%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Right右脑TEM颞叶": true
+			},
+			"data": [{
+				"name": "Right右脑TEM颞叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "vertical",
+			"x": "right",
+			"y": "30%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Right右脑PAR顶叶": true
+			},
+			"data": [{
+				"name": "Right右脑PAR顶叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "vertical",
+			"x": "right",
+			"y": "35%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Right右脑INS岛叶": true
+			},
+			"data": [{
+				"name": "Right右脑INS岛叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "vertical",
+			"x": "right",
+			"y": "40%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Right右脑LIM边缘": true
+			},
+			"data": [{
+				"name": "Right右脑LIM边缘",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "vertical",
+			"x": "right",
+			"y": "45%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Right右脑OCC枕叶": true
+			},
+			"data": [{
+				"name": "Right右脑OCC枕叶",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		},
+		{
+			"orient": "vertical",
+			"x": "right",
+			"y": "50%",
+			"backgroundColor": "rgba(255, 255, 255, 0.8)",
+			"padding": 10,
+			"itemGap": 20,
+			"textStyle": {
+				"color": "black"
+			},
+			"selected": {
+				"Right右脑SUB基底": true
+			},
+			"data": [{
+				"name": "Right右脑SUB基底",
+				"textStyle": {
+					"fontWeight": "bold",
+					"color": "black"
+				}
+			}]
+
+		}
+	],
+	"tooltip": {
+		"show": true,
+		"trigger": "item",
+		"triggerOn": "mousemove|click",
+		"axisPointer": {
+			"type": "line"
+		},
+		"textStyle": {
+			"fontSize": 14
+		},
+		"borderWidth": 0
+	},
+	"title": [{
+		"text": "48节点脑区关系图(权重01-10)",
+		"padding": 5,
+		"itemGap": 10
+	}]
+}

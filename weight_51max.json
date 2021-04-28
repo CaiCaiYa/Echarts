@@ -1,0 +1,376 @@
+{
+	"animation": true,
+	"animationThreshold": 2000,
+	"animationDuration": 1000,
+	"animationEasing": "cubicOut",
+	"animationDelay": 0,
+	"animationDurationUpdate": 300,
+	"animationEasingUpdate": "cubicOut",
+	"animationDelayUpdate": 0,
+	"color": [
+		"#c12e34",
+		"#e6b600",
+		"#0098d9",
+		"#2b821d",
+		"#005eaa",
+		"#339ca8",
+		"#cda819",
+		"#32a487",
+		"#d87c7c",
+		"#919e8b",
+		"#d7ab82",
+		"#6e7074",
+		"#61a0a8",
+		"#efa18d",
+		"#787464",
+		"#cc7e63",
+		"#724e58",
+		"#4b565b"
+
+	],
+	"series": [{
+		"type": "graph",
+		"layout": "circular",
+		"symbolSize": 10,
+		"circular": {
+			"rotateLabel": true
+		},
+		"force": {
+			"repulsion": 50,
+			"edgeLength": 50,
+			"gravity": 0.2
+		},
+		"label": {
+			"show": true,
+			"position": "right",
+			"margin": 8,
+			"fontSize": 30
+		},
+		"lineStyle": {
+			"show": true,
+			"opacity": 1,
+			"curveness": 0.3,
+			"type": "solid",
+			"color": "source"
+		},
+		"roam": true,
+		"draggable": false,
+		"focusNodeAdjacency": true,
+		"data": [{
+				"id": "0",
+				"name": "Left左脑FRO额叶SFG额上回",
+				"symbolSize": 63.8,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 638,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 0
+			},
+			{
+				"id": "41",
+				"name": "Right右脑LIM边缘CG扣带回",
+				"symbolSize": 84.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 841,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 4
+			},
+			{
+				"id": "47",
+				"name": "Right右脑SUB基底Tha丘脑",
+				"symbolSize": 135.0,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 1350,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 5
+			},
+			{
+				"id": "17",
+				"name": "Left左脑LIM边缘CG扣带回",
+				"symbolSize": 84.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 841,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 1
+			},
+			{
+				"id": "23",
+				"name": "Left左脑SUB基底Tha丘脑",
+				"symbolSize": 130.2,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 1302,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 2
+			},
+			{
+				"id": "24",
+				"name": "Right右脑FRO额叶SFG额上回",
+				"symbolSize": 60.1,
+				"x": -266.82776,
+				"y": 299.6904,
+				"value": 601,
+				"label": {
+					"normal": {
+						"show": true
+					}
+				},
+				"category": 3
+			}
+		],
+		"categories": [{
+				"name": "Left左脑FRO额叶"
+			},
+			{
+				"name": "Left左脑LIM边缘"
+			},
+			{
+				"name": "Left左脑SUB基底"
+			},
+			{
+				"name": "Right右脑FRO额叶"
+			},
+			{
+				"name": "Right右脑LIM边缘"
+			},
+			{
+				"name": "Right右脑SUB基底"
+
+			}
+		],
+		"edgeLabel": {
+			"show": false,
+			"position": "top",
+			"margin": 8
+		},
+		"edgeSymbol": [
+			null,
+			null
+		],
+		"edgeSymbolSize": 10,
+		"links": [{
+				"id": "1",
+				"source": "23",
+				"target": "0",
+				"value": "54",
+				"lineStyle": {
+					"width": 7.5
+				}
+			},
+			{
+				"id": "2",
+				"source": "23",
+				"target": "17",
+				"value": "55",
+				"lineStyle": {
+					"width": 7.6
+				}
+			},
+			{
+				"id": "3",
+				"source": "41",
+				"target": "23",
+				"value": "52",
+				"lineStyle": {
+					"width": 7.4
+				}
+			},
+			{
+				"id": "4",
+				"source": "47",
+				"target": "17",
+				"value": "54",
+				"lineStyle": {
+					"width": 7.5
+				}
+			},
+			{
+				"id": "5",
+				"source": "47",
+				"target": "23",
+				"value": "64",
+				"lineStyle": {
+					"width": 7.8
+				}
+			},
+			{
+				"id": "6",
+				"source": "47",
+				"target": "24",
+				"value": "52",
+				"lineStyle": {
+					"width": 7.4
+				}
+			},
+			{
+				"id": "7",
+				"source": "47",
+				"target": "41",
+				"value": "56",
+				"lineStyle": {
+					"width": 7.6
+				}
+			}
+		]
+	}],
+	"legend": [{
+				"orient": "horizontal",
+				"x": "left",
+				"y": "20%",
+				"backgroundColor": "rgba(255, 255, 255, 0.8)",
+				"padding": 10,
+				"itemGap": 20,
+				"selected": {
+					"Left左脑FRO额叶": true
+				},
+				"data": [{
+					"name": "Left左脑FRO额叶",
+					"textStyle": {
+						"fontWeight": "bold",
+						"color": "black"
+
+					}
+				}]
+	
+			},
+			{
+				"orient": "horizontal",
+				"x": "left",
+				"y": "40%",
+				"backgroundColor": "rgba(255, 255, 255, 0.8)",
+				"padding": 10,
+				"itemGap": 20,
+				"selected": {
+					"Left左脑LIM边缘": true
+				},
+				"data": [{
+					"name": "Left左脑LIM边缘",
+					"textStyle": {
+						"fontWeight": "bold",
+						"color": "black"
+
+					}
+				}]
+	
+			},
+			{
+				"orient": "horizontal",
+				"x": "left",
+				"y": "50%",
+				"backgroundColor": "rgba(255, 255, 255, 0.8)",
+				"padding": 10,
+				"itemGap": 20,
+				"selected": {
+					"Left左脑SUB基底": true
+				},
+				"data": [{
+					"name": "Left左脑SUB基底",
+					"textStyle": {
+						"fontWeight": "bold",
+						"color": "black",
+						"fontSize": 18	
+					}
+				}]
+	
+			},
+			{
+				"orient": "vertical",
+				"x": "right",
+				"y": "20%",
+				"backgroundColor": "rgba(255, 255, 255, 0.8)",
+				"padding": 10,
+				"itemGap": 20,
+				"selected": {
+					"Right右脑FRO额叶": true
+				},
+				"data": [{
+					"name": "Right右脑FRO额叶",
+					"textStyle": {
+						"fontWeight": "bold",
+						"color": "black"
+
+					}
+				}]
+	
+			},
+			{
+				"orient": "vertical",
+				"x": "right",
+				"y": "40%",
+				"backgroundColor": "rgba(255, 255, 255, 0.8)",
+				"padding": 10,
+				"itemGap": 20,
+				"selected": {
+					"Right右脑LIM边缘": true
+				},
+				"data": [{
+					"name": "Right右脑LIM边缘",
+					"textStyle": {
+						"fontWeight": "bold",
+						"color": "black"
+						
+					}
+				}]
+	
+			},
+			{
+				"orient": "vertical",
+				"x": "right",
+				"y": "50%",
+				"backgroundColor": "rgba(255, 255, 255, 0.8)",
+				"padding": 10,
+				"itemGap": 20,
+				"selected": {
+					"Right右脑SUB基底": true
+				},
+				"data": [{
+					"name": "Right右脑SUB基底",
+					"textStyle": {
+						"fontWeight": "bold",
+						"color": "black"
+					}
+				}]
+	
+			}
+		],
+	"tooltip": {
+		"show": true,
+		"trigger": "item",
+		"triggerOn": "mousemove|click",
+		"axisPointer": {
+			"type": "line"
+		},
+		"textStyle": {
+			"fontSize": 14
+		},
+		"borderWidth": 0
+	},
+	"title": [{
+		"text": "48节点脑区关系图(权重51-max)",
+		"padding": 5,
+		"itemGap": 10
+	}]
+}
